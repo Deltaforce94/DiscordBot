@@ -9,7 +9,7 @@ import asyncio
 from keep_alive import keep_alive
 from discord.ext import commands
 
-token = "MTExOTI4NzAwOTMyOTA0MTQ0OA.Gzpmvr.seU64eYy9iGwODRoWzWo0AZyPFQ4N0-Lde4Tls"
+token = "bot token goes here"
 weather_api_key = "d49be36c092040338e23e3943f3bd66f"
 
 intents = discord.Intents.default()
